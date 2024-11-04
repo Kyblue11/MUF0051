@@ -10,6 +10,7 @@ Authors: Aaron, Daniel
 
 <img src="./flashpoint.png" alt="flashpoint" width="300"/>  
 <img src="./definitions.png" alt="definitions" width="300"/>
+<img src="./stats.png" alt="deck_options" width="300"/>
 
 This repository contains an ICT Anki deck package. Follow the steps below to add a new deck to your Anki application.
 
