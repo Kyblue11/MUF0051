@@ -4,7 +4,7 @@ Information and Communication Technology Unit 1
 Anki flashcard and notes for final exam / quiz preparation  
 Prepared for students under MUF0051 - ICT 1 during 2022/2023. Note that the current content for the final exam/quiz _may_ be subject to change.
 
-Authors: Aaron, Daniel
+Prepared by: Aaron Lam
 
 ---
 
